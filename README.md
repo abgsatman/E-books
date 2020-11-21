@@ -49,3 +49,4 @@ An archive of e-books on many programming languages
 - VBA notes for professionals
 - Visual Basic notes for professionals
 - Xamarin notes for professionals
+- Solr in Action for search engine professionals
